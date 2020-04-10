@@ -1,0 +1,40 @@
+The average of the whole data is 19
+genres that are above average:Comedy   25
+
+Thriller   24
+
+Drama   24
+
+Action   23
+
+Crime   23
+
+Children   22
+
+Adventure   22
+
+Horror   22
+
+Romance   22
+
+Documentary   22
+
+Sci-Fi   21
+
+Animation   21
+
+Fantasy   20
+
+Mystery   19
+
+genres that are below average: 
+War  18
+
+Musical  17
+
+IMAX  12
+
+Western  10
+
+Film-Noir  5
+
